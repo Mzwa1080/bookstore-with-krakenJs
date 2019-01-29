@@ -1,0 +1,37 @@
+{>"layouts/master" /}
+
+{<body} <div class="large-4 columns book">
+    <img src="/img/1.1.jpeg" />
+    <h4>Professional Book</h4>
+
+    </div>
+
+
+
+
+    <div class="large-8 columns book">
+        <h2>Professional JavaScript</h2>
+        <ul>
+            <li>Category:JavaScript</li>
+            <li>Author:John Doe</li>
+            <li>Publisher: Lorem kdkmcdkmsckzdmcDm </li>
+        </ul>
+        <br>
+
+
+        <div class="price"> <span>R230</span>
+            <p>
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odio fugiat amet adipisci nobis blanditiis
+                laboriosam nemo labore.
+            </p>
+
+            <a href="button success">Add Cart</a>
+        </div>
+
+
+    </div>
+
+
+
+
+    {/body}
