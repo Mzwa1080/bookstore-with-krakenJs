@@ -33,7 +33,7 @@
                      <ul class="menu">
                         <li><a href="/manage/">Dashboard</a></li>
                         <li><a href="/manage/books">About</a></li>
-                        <li><a href="/manage/categories">Cart</a></li>
+                        <li><a href="/manage/categories">Categories</a></li>
                         
                     </ul>
                 </div>
